@@ -19,7 +19,6 @@ opencc
 uvicorn
 fastapi
 pydantic
-celery
-flower
 loguru
 soundfile
+audonnx
